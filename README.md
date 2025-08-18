@@ -38,7 +38,7 @@ It provides insights into listening behavior, most played tracks, artist popular
 ![Device Usage]([images/device_usage.png](https://github.com/AbishekP-28/Spotify-Data-Analysis/blob/main/images/Screenshot%202025-08-18%20134820.png))
 
 ### Listening Patterns  
-![Listening Patterns](images/listening_patterns.png)
+![Listening Patterns](Screenshot 2025-08-18 134712.png)
 
 ---
 
