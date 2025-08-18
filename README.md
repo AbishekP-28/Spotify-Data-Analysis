@@ -29,16 +29,13 @@ It provides insights into listening behavior, most played tracks, artist popular
 ## 📸 Dashboard Preview
 
 ### Overview  
-![Overview](images/dashboard_overview.png)
+![Overview](images/Screenshot%202025-08-18%20134712.png)
 
 ### Top Artists  
-![Top Artists](images/top_artists.png)
+![Top Artists](images/Screenshot%202025-08-18%20134743.png)
 
 ### Device Usage  
-![Device Usage]([images/device_usage.png](https://github.com/AbishekP-28/Spotify-Data-Analysis/blob/main/images/Screenshot%202025-08-18%20134820.png))
-
-### Listening Patterns  
-![Listening Patterns](Screenshot 2025-08-18 134712.png)
+![Device Usage](images/Screenshot%202025-08-18%20134820.png)
 
 ---
 
